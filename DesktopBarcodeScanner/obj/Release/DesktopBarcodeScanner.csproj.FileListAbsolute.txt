@@ -1,0 +1,16 @@
+C:\Users\Sakura\Downloads\DesktopBarcodeScanner\DesktopBarcodeScanner\bin\Release\DesktopBarcodeScanner.exe.config
+C:\Users\Sakura\Downloads\DesktopBarcodeScanner\DesktopBarcodeScanner\bin\Release\DesktopBarcodeScanner.exe
+C:\Users\Sakura\Downloads\DesktopBarcodeScanner\DesktopBarcodeScanner\bin\Release\DesktopBarcodeScanner.pdb
+C:\Users\Sakura\Downloads\DesktopBarcodeScanner\DesktopBarcodeScanner\bin\Release\zxing.dll
+C:\Users\Sakura\Downloads\DesktopBarcodeScanner\DesktopBarcodeScanner\bin\Release\zxing.presentation.dll
+C:\Users\Sakura\Downloads\DesktopBarcodeScanner\DesktopBarcodeScanner\bin\Release\zxing.xml
+C:\Users\Sakura\Downloads\DesktopBarcodeScanner\DesktopBarcodeScanner\bin\Release\zxing.presentation.xml
+C:\Users\Sakura\Downloads\DesktopBarcodeScanner\DesktopBarcodeScanner\obj\Release\DesktopBarcodeScanner.csproj.AssemblyReference.cache
+C:\Users\Sakura\Downloads\DesktopBarcodeScanner\DesktopBarcodeScanner\obj\Release\DesktopBarcodeScanner.csproj.SuggestedBindingRedirects.cache
+C:\Users\Sakura\Downloads\DesktopBarcodeScanner\DesktopBarcodeScanner\obj\Release\DesktopBarcodeScanner.Properties.Resources.resources
+C:\Users\Sakura\Downloads\DesktopBarcodeScanner\DesktopBarcodeScanner\obj\Release\DesktopBarcodeScanner.ScannerForm.resources
+C:\Users\Sakura\Downloads\DesktopBarcodeScanner\DesktopBarcodeScanner\obj\Release\DesktopBarcodeScanner.csproj.GenerateResource.cache
+C:\Users\Sakura\Downloads\DesktopBarcodeScanner\DesktopBarcodeScanner\obj\Release\DesktopBarcodeScanner.csproj.CoreCompileInputs.cache
+C:\Users\Sakura\Downloads\DesktopBarcodeScanner\DesktopBarcodeScanner\obj\Release\DesktopBarcodeScanner.csproj.CopyComplete
+C:\Users\Sakura\Downloads\DesktopBarcodeScanner\DesktopBarcodeScanner\obj\Release\DesktopBarcodeScanner.exe
+C:\Users\Sakura\Downloads\DesktopBarcodeScanner\DesktopBarcodeScanner\obj\Release\DesktopBarcodeScanner.pdb
